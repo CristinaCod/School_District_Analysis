@@ -13,21 +13,22 @@ The district summary is affected by ...
 * How replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools:
 
  After replacing the ninth graders' at Thomas High School's math and reading scores we found that ...
+ 
 * How replacing the ninth-grade scores affects the following:
 
-  -Math and reading scores by grade
+  -Math and reading **scores by grade:**
   
   There appeared to be no change in math and reading scores by grade when comparing the new test scores of ninth graders at Thomas High School with the original findings. 
   
-  -Scores by school spending
+  -Scores by **school spending:**
   
   After incorporating the new standardized test scores from the ninth graders at Thomas High School we did not see any significant differences in the spending ranges per student compared to the original findings before retesting. 
   
-  -Scores by school size
+  -Scores by **school size:**
   
   After comparing the analysis with the new test scores from the ninth graders at Thomas High School it is clear that there was no signficant effect and those findings reflect the original ones exactly.
   
-  -Scores by school type
+  -Scores by **school type:**
   
 We found that after running the analysis with the new grades from the ninth graders at Thomas High School there was no significant impact and the findings are still equivalent to those of the original analysis before reports of dishonesty arose.
 

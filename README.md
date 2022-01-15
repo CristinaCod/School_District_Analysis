@@ -6,10 +6,17 @@ The purpose of this school district analysis is to assist Maria, the chief Data 
 ## Results
 * How the district summary is affected:
 
+With the new analysis the values in the district summary are just about 1% less for each category. "% Passing Math" changed from 75% originally to now 73.9%. "% Passing Reading" changed from 86% originally to 84.7%. Lastly, we saw the "% Overall Passing" go from 65% originally to 64.1%. Visualizations provided below.
+
+![original_district_summary.png](https://github.com/CristinaCod/School_District_Analysis/blob/main/Resources/original_district_summary.png)
+
+![new_district_summary.png](https://github.com/CristinaCod/School_District_Analysis/blob/main/Resources/new_district_summary.png)
+
 The district summary is affected by ...
 * How the school summary is affected:
   
- When comparing the school summary with 
+ In the overall school summary the average math and reading scores showed no changes with the new data. However, we did see changes to the passing percentages of math and reading. "% Passing Math" changed to 93.2%. "% Passing Reading" went from 69.7% to 97%. And "% Overall Passing" went from 65% to 90.6%. 
+ 
 * How replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools:
 
  After replacing the ninth graders' at Thomas High School's math and reading scores we found that ...

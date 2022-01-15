@@ -15,7 +15,9 @@ With the new analysis the values in the district summary are just about 1% less 
 The district summary is affected by ...
 * How the school summary is affected:
   
- In the overall school summary the average math and reading scores showed no changes with the new data. However, we did see changes to the passing percentages of math and reading. "% Passing Math" changed to 93.2%. "% Passing Reading" went from 69.7% to 97%. And "% Overall Passing" went from 65% to 90.6%. 
+ In the overall school summary the average math and reading scores showed no changes with the new data. However, we did see changes to the passing percentages of math and reading. "% Passing Math" changed to 93.2%. "% Passing Reading" went from 69.7% to 97%. And "% Overall Passing" went from 65% to 90.6%. Current summary provided below.
+ 
+ ![per_school_summary_df.png](https://github.com/CristinaCod/School_District_Analysis/blob/main/Resources/per_school_summary_df.png)
  
 * How replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools:
 
@@ -25,7 +27,7 @@ The district summary is affected by ...
 
   -Math and reading **scores by grade:**
   
-  There appeared to be no change in math and reading scores by grade when comparing the new test scores of ninth graders at Thomas High School with the original findings. 
+  There appeared to be no change in math and reading scores by grade when comparing the new test scores of ninth graders at Thomas High School with the original findings. Only difference we see when looking at the scores by grade series is that the ninth graders at Thomas High School have "nan" instead of a numerical value.
   
   -Scores by **school spending:**
   

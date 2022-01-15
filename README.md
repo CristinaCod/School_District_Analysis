@@ -12,10 +12,9 @@ With the new analysis the values in the district summary are just about 1% less 
 
 ![new_district_summary.png](https://github.com/CristinaCod/School_District_Analysis/blob/main/Resources/new_district_summary.png)
 
-The district summary is affected by ...
 * How the school summary is affected:
   
- In the overall school summary the average math and reading scores showed no changes with the new data. However, we did see changes to the passing percentages of math and reading. "% Passing Math" changed to 93.2%. "% Passing Reading" went from 69.7% to 97%. And "% Overall Passing" went from 65% to 90.6%. Current summary provided below.
+ In the overall school summary the average math and reading scores showed no changes with the new data. However, we did see changes to the passing percentages of math and reading. "% Passing Math" changed to 93.2%. "% Passing Reading" went from 69.7% to 97%. And "% Overall Passing" went from 65% to 90.6%. Current summary provided below with Thomas High School highlighted as the last row.
  
  ![per_school_summary_df.png](https://github.com/CristinaCod/School_District_Analysis/blob/main/Resources/per_school_summary_df.png)
  
@@ -41,5 +40,6 @@ The district summary is affected by ...
   
 We found that after running the analysis with the new grades from the ninth graders at Thomas High School there was no significant impact and the findings are still equivalent to those of the original analysis before reports of dishonesty arose.
 
-![election_results.png](https://github.com/CristinaCod/election_analysis/blob/main/analysis/Election_Results.png)
+
 ## Summary
+After running the new school district analysis and removing the dishonest ninth graders math and reading scores from Thomas High School, the rest of the grades at the high school did see a significant increase in their passing percentages proving that the ninth graders were hindering the academic success of their peers. This then also reflects poorly on the school itself and district as a whole which could then effect the fundings and resources they receive. As mentioned we did also see the negative effects the ninth graders dishonesty had on the district summary as a whole. Whether or not the one percent difference is significant or not can be debated but if considered signififcant this could effect school and district rankings bringing them down which could also manifest into not receiving as much funding and perhaps a lack of desire for parents to send their children there when looking for schools. 

@@ -14,13 +14,15 @@ With the new analysis the values in the district summary are just about 1% less 
 
 * How the school summary is affected:
   
- In the overall school summary the average math and reading scores showed no changes with the new data. However, we did see changes to the passing percentages of math and reading. "% Passing Math" changed to 93.2%. "% Passing Reading" went from 69.7% to 97%. And "% Overall Passing" went from 65% to 90.6%. Current summary provided below with Thomas High School highlighted as the last row.
+ In the overall school summary the average math and reading scores showed no changes with the new data. However, we did see changes to the passing percentages of math and reading. "% Passing Math" changed from 66.9% to 93.2%. "% Passing Reading" went from 69.7% to 97%. And "% Overall Passing" went from 65% to 90.6%. Current summary provided below with Thomas High School highlighted as the last row.
  
  ![per_school_summary_df.png](https://github.com/CristinaCod/School_District_Analysis/blob/main/Resources/per_school_summary_df.png)
  
 * How replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools:
 
- After replacing the ninth graders' at Thomas High School's math and reading scores we found that ...
+ After replacing the ninth graders' at Thomas High School's math and reading scores it appeared that the new passing percentages better reflected their charter school standard. The passing percentages for other charter schools were almost all in the high 90's meanwhile Thomas High School's original percentages were in the mid to low 60's which is now obviously due to the dishonesty of ninth graders at the school. After removing those values we see that Thomas High's passing percentages are in the mid to high 90's as well now making them one of the top charter schools as highlighted in the image below.
+ 
+ ![THS_high_charter.png](https://github.com/CristinaCod/School_District_Analysis/blob/main/Resources/THS_high_charter.png)
  
 * How replacing the ninth-grade scores affects the following:
 
